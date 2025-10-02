@@ -32,17 +32,16 @@ pandas → data manipulation
 matplotlib → charts and plots
 
 📂 Dataset
-
 A sample sales table was created with the following schema:
 
 Column	Description
-id	Unique transaction ID
-invoice_date	Date of sale
-product	Product name
-quantity	Units sold
-price	Price per unit
-customer_id	Customer identifier
-region	Region of sale
+id	Unique transaction ID,
+invoice_date	Date of sale,
+product	Product name,
+quantity	Units sold,
+price	Price per unit,
+customer_id	Customer identifier,
+region	Region of sale,
 city	City of sale
 
 👉 20 rows of sample sales data were inserted (laptops, phones, tablets, etc. across multiple regions/cities).
