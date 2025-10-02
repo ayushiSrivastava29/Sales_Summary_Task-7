@@ -93,8 +93,8 @@ Generated visual insights (charts) from SQL query results.
 
 Created a reusable analysis notebook for future datasets.
 
-✨ This project demonstrates end-to-end data analysis using SQL + Python, making it a good addition to my portfolio.
-
 Created Bar Chart (Revenue by Product).
 
 Created Pie Chart (Sales by Region/City).
+
+✨ This project demonstrates end-to-end data analysis using SQL + Python, making it a good addition to my portfolio.
